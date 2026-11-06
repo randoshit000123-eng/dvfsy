@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "tabcanvas:block/tab_canvas"
+	}
+}

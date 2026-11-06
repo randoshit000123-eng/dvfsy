@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "tabcanvas",
+	"version": "${version}",
+	"name": "Tab Canvas",
+	"description": "Eine 3x3-Leinwand an der Wand, die wie das Tab-Menue alle Online-Spieler mit Kopf und Namen anzeigt.",
+	"authors": ["Du"],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["de.tabcanvas.TabCanvasMod"],
+		"client": ["de.tabcanvas.client.TabCanvasClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": ">=26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "tabcanvas:block/tab_canvas" },
+		"facing=east": { "model": "tabcanvas:block/tab_canvas", "y": 90 },
+		"facing=south": { "model": "tabcanvas:block/tab_canvas", "y": 180 },
+		"facing=west": { "model": "tabcanvas:block/tab_canvas", "y": 270 }
+	}
+}

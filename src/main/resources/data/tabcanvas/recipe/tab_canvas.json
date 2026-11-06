@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"III",
+		"IGI",
+		"III"
+	],
+	"key": {
+		"I": "minecraft:iron_ingot",
+		"G": "minecraft:glass_pane"
+	},
+	"result": {
+		"id": "tabcanvas:tab_canvas",
+		"count": 1
+	}
+}
